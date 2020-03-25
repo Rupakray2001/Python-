@@ -34,7 +34,17 @@ t=input("provide another string")
 print(((s[0].upper())+s[1:-1]+(s[-1].upper()))+((t[0].upper())+t[1:-1]+(t[-1].upper())))
 
 
+#task8
+#get two numbers from user(3,5)
+#o/p 55533333
+u=input("provide 1 number greater than 4")
+v=input("provide one number less than 4")
+w=(int(v)*u)
+x=(int(u)*v)
+print(w+x)
 
+
+      
         
 
 
