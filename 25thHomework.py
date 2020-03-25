@@ -10,7 +10,7 @@ b=input("provide provide a string")
 c=int(input("please provide an integer"))
 print((b*c)+(len(b)*str(c)))
 
-#get pme string from user("python")
+#get one string from user("python")
 #convert first letter, last letter, middle letter in caps
 d=input("Please provide a string")
 e=d[0]
