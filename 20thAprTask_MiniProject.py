@@ -8,7 +8,6 @@ userWin=0
 systemWin=0
 Tie=0
 
-#rRandom=random.choice(choicePredefined)
 
 while attempts<acceptedNoOfAttempts:
     rRandom=random.choice(choicePredefined)
